@@ -1,5 +1,5 @@
-﻿using FinalProject.Areas.Admin.Models;
-using FinalProject.Models;
+﻿using FinalProject.Models;
+
 
 namespace FinalProject.Services
 {

@@ -15,5 +15,8 @@ public class AppUser : IdentityUser
 
     [MaxLength(30)]
     public string LastName { get; set; }
+
+    [MaxLength(100)]
+    public string Address { get; set; }
 }
 

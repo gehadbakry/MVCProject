@@ -8,11 +8,13 @@ using Microsoft.EntityFrameworkCore;
 using FinalProject.Models;
 using FinalProject.Services;
 using Microsoft.AspNetCore.Mvc.Razor;
+ 
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+
 builder.Services.AddDbContext<FinalProjectContext>(options =>
     options.UseSqlServer(connectionString));builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
@@ -52,10 +54,12 @@ builder.Services.AddAuthentication().AddFacebook(facebookOptions =>
 
 builder.Services.AddControllersWithViews();
 
-builder.Services.AddScoped<ICustomerRepos, CustomerServiceRepos>();
+//builder.Services.AddScoped<ICustomerRepos, CustomerServiceRepos>();
 builder.Services.AddScoped<IItemRepos, ItemServiceRepos>();
 builder.Services.AddScoped<ICategoryRepos, CategoryServiceRepos>();
 builder.Services.AddScoped<IOrderRepos, OrderServiceRepos>();
+builder.Services.AddScoped<IOrdersItemsRepos,OrdersItemsServiceRepos>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -83,6 +87,11 @@ app.UseAuthorization();
 app.MapControllerRoute(
     name: "MyArea",
     pattern: "{area:exists}/{controller=Admin}/{action=Index}/{id?}");
+
+app.MapControllerRoute(
+    name: "CustArea",
+    pattern: "{area:exists}/{controller=Customer}/{action=Index}/{id?}"
+    );
 
 app.MapControllerRoute(
     name: "default",

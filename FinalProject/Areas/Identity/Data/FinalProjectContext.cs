@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+ 
+using FinalProject.Models;
 using PurchasingSystem.Areas.Identity.Data;
 
 namespace FinalProject.Data;
@@ -19,4 +21,6 @@ public class FinalProjectContext : IdentityDbContext<AppUser>
         // For example, you can rename the ASP.NET Identity table names and more.
         // Add your customizations after calling base.OnModelCreating(builder);
     }
+   
+    //public DbSet<FinalProject.Models.Category> Category { get; set; }
 }

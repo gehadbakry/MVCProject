@@ -25,7 +25,7 @@ namespace FinalProject.AuthenticationService
         public async Task Execute(string apiKey, string subject, string message, string toEmail)
         {
         
-            var client = new SendGridClient("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");
+            var client = new SendGridClient("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");
             var msg = new SendGridMessage()
             {
                 From = new EmailAddress("gehadk.bakry@gmail.com", "Email Confirm"),

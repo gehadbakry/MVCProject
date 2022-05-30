@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pYNwtgDMxlgPHxn1mJ4KTxOQoMA70qJmIrirs2LXlzI=",
+  "Hash": "jP6dad+uiSdsRVPBCoax+3JbDyyC+QD9W/Ft7Sjk4O4=",
   "Source": "FinalProject",
   "BasePath": "_content/FinalProject",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "FinalProject\\wwwroot",
       "Source": "FinalProject",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "Pattern": "**"
     }
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "C:\\Users\\Gehad\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.2\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\obj\\Debug\\net6.0\\scopedcss\\bundle\\FinalProject.styles.css",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\obj\\Debug\\net6.0\\scopedcss\\bundle\\FinalProject.styles.css",
       "SourceId": "FinalProject",
       "SourceType": "Computed",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "FinalProject.styles.css",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\obj\\Debug\\net6.0\\scopedcss\\bundle\\FinalProject.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\obj\\Debug\\net6.0\\scopedcss\\bundle\\FinalProject.styles.css"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FinalProject.bundle.scp.css",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FinalProject.bundle.scp.css",
       "SourceId": "FinalProject",
       "SourceType": "Computed",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "FinalProject.bundle.scp.css",
       "AssetKind": "All",
@@ -1068,13 +1068,47 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FinalProject.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FinalProject.bundle.scp.css"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\css\\flex-slider.css",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\css\\animate.min.css",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/FinalProject",
+      "RelativePath": "css/animate.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\animate.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\css\\CatSheet.css",
+      "SourceId": "FinalProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/FinalProject",
+      "RelativePath": "css/CatSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\CatSheet.css"
+    },
+    {
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\css\\flex-slider.css",
+      "SourceId": "FinalProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "css/flex-slider.css",
       "AssetKind": "All",
@@ -1088,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\css\\flex-slider.css"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\css\\fontawesome.css",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\css\\fontawesome.css",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "css/fontawesome.css",
       "AssetKind": "All",
@@ -1105,10 +1139,27 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome.css"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\css\\owl.css",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\css\\main.css",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/FinalProject",
+      "RelativePath": "css/main.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\main.css"
+    },
+    {
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\css\\owl.css",
+      "SourceId": "FinalProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "css/owl.css",
       "AssetKind": "All",
@@ -1122,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\css\\owl.css"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\css\\site.css",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1139,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\css\\templatemo-sixteen.css",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\css\\templatemo-sixteen.css",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "css/templatemo-sixteen.css",
       "AssetKind": "All",
@@ -1156,10 +1207,27 @@
       "OriginalItemSpec": "wwwroot\\css\\templatemo-sixteen.css"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\css\\util.css",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/FinalProject",
+      "RelativePath": "css/util.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\util.css"
+    },
+    {
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\favicon.ico",
+      "SourceId": "FinalProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1173,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\images\\about-heading.jpg",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\images\\about-heading.jpg",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "images/about-heading.jpg",
       "AssetKind": "All",
@@ -1190,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\images\\about-heading.jpg"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\images\\client-01.png",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\images\\client-01.png",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "images/client-01.png",
       "AssetKind": "All",
@@ -1207,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\images\\client-01.png"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\images\\contact-heading.jpg",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\images\\contact-heading.jpg",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "images/contact-heading.jpg",
       "AssetKind": "All",
@@ -1224,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\images\\contact-heading.jpg"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\images\\download.jpg",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\images\\download.jpg",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "images/download.jpg",
       "AssetKind": "All",
@@ -1241,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\images\\download.jpg"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\images\\feature-image.jpg",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\images\\feature-image.jpg",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "images/feature-image.jpg",
       "AssetKind": "All",
@@ -1258,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\images\\feature-image.jpg"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\images\\image.jpg",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\images\\image.jpg",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "images/image.jpg",
       "AssetKind": "All",
@@ -1275,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\images\\image.jpg"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\images\\images.jpg",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\images\\images.jpg",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "images/images.jpg",
       "AssetKind": "All",
@@ -1292,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\images\\images.jpg"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\images\\more-info.jpg",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\images\\more-info.jpg",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "images/more-info.jpg",
       "AssetKind": "All",
@@ -1309,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\images\\more-info.jpg"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\images\\product_01.jpg",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\images\\product_01.jpg",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "images/product_01.jpg",
       "AssetKind": "All",
@@ -1326,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product_01.jpg"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\images\\product_02.jpg",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\images\\product_02.jpg",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "images/product_02.jpg",
       "AssetKind": "All",
@@ -1343,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product_02.jpg"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\images\\product_03.jpg",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\images\\product_03.jpg",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "images/product_03.jpg",
       "AssetKind": "All",
@@ -1360,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product_03.jpg"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\images\\product_04.jpg",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\images\\product_04.jpg",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "images/product_04.jpg",
       "AssetKind": "All",
@@ -1377,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product_04.jpg"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\images\\product_05.jpg",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\images\\product_05.jpg",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "images/product_05.jpg",
       "AssetKind": "All",
@@ -1394,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product_05.jpg"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\images\\product_06.jpg",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\images\\product_06.jpg",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "images/product_06.jpg",
       "AssetKind": "All",
@@ -1411,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product_06.jpg"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\images\\products-heading.jpg",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\images\\products-heading.jpg",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "images/products-heading.jpg",
       "AssetKind": "All",
@@ -1428,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products-heading.jpg"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\images\\services-bg.jpg",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\images\\services-bg.jpg",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "images/services-bg.jpg",
       "AssetKind": "All",
@@ -1445,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\images\\services-bg.jpg"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\images\\slide_01.jpg",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\images\\slide_01.jpg",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "images/slide_01.jpg",
       "AssetKind": "All",
@@ -1462,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slide_01.jpg"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\images\\slide_02.jpg",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\images\\slide_02.jpg",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "images/slide_02.jpg",
       "AssetKind": "All",
@@ -1479,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slide_02.jpg"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\images\\slide_03.jpg",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\images\\slide_03.jpg",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "images/slide_03.jpg",
       "AssetKind": "All",
@@ -1496,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slide_03.jpg"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\images\\team_01.jpg",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\images\\team_01.jpg",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "images/team_01.jpg",
       "AssetKind": "All",
@@ -1513,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\images\\team_01.jpg"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\images\\team_02.jpg",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\images\\team_02.jpg",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "images/team_02.jpg",
       "AssetKind": "All",
@@ -1530,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\images\\team_02.jpg"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\images\\team_03.jpg",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\images\\team_03.jpg",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "images/team_03.jpg",
       "AssetKind": "All",
@@ -1547,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\images\\team_03.jpg"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\images\\team_04.jpg",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\images\\team_04.jpg",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "images/team_04.jpg",
       "AssetKind": "All",
@@ -1564,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\images\\team_04.jpg"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\images\\team_05.jpg",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\images\\team_05.jpg",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "images/team_05.jpg",
       "AssetKind": "All",
@@ -1581,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\images\\team_05.jpg"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\images\\team_06.jpg",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\images\\team_06.jpg",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "images/team_06.jpg",
       "AssetKind": "All",
@@ -1598,10 +1666,282 @@
       "OriginalItemSpec": "wwwroot\\images\\team_06.jpg"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\jquery\\jquery.js",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/FinalProject",
+      "RelativePath": "jquery/jquery.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jquery\\jquery.js"
+    },
+    {
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\jquery\\jquery.min.js",
+      "SourceId": "FinalProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/FinalProject",
+      "RelativePath": "jquery/jquery.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jquery\\jquery.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\jquery\\jquery.min.map",
+      "SourceId": "FinalProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/FinalProject",
+      "RelativePath": "jquery/jquery.min.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jquery\\jquery.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\jquery\\jquery.slim.js",
+      "SourceId": "FinalProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/FinalProject",
+      "RelativePath": "jquery/jquery.slim.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jquery\\jquery.slim.js"
+    },
+    {
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\jquery\\jquery.slim.min.js",
+      "SourceId": "FinalProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/FinalProject",
+      "RelativePath": "jquery/jquery.slim.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\jquery\\jquery.slim.min.map",
+      "SourceId": "FinalProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/FinalProject",
+      "RelativePath": "jquery/jquery.slim.min.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\js\\accordions.js",
+      "SourceId": "FinalProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/FinalProject",
+      "RelativePath": "js/accordions.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\accordions.js"
+    },
+    {
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\js\\custom.js",
+      "SourceId": "FinalProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/FinalProject",
+      "RelativePath": "js/custom.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\custom.js"
+    },
+    {
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\js\\easing.js",
+      "SourceId": "FinalProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/FinalProject",
+      "RelativePath": "js/easing.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\easing.js"
+    },
+    {
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\js\\easing.min.js",
+      "SourceId": "FinalProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/FinalProject",
+      "RelativePath": "js/easing.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\easing.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\js\\isotope.js",
+      "SourceId": "FinalProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/FinalProject",
+      "RelativePath": "js/isotope.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\isotope.js"
+    },
+    {
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\js\\jqBootstrapValidation.min.js",
+      "SourceId": "FinalProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/FinalProject",
+      "RelativePath": "js/jqBootstrapValidation.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jqBootstrapValidation.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\js\\main.js",
+      "SourceId": "FinalProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/FinalProject",
+      "RelativePath": "js/main.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\main.js"
+    },
+    {
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\js\\owl.carousel.js",
+      "SourceId": "FinalProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/FinalProject",
+      "RelativePath": "js/owl.carousel.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\owl.carousel.js"
+    },
+    {
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\js\\owl.carousel.min.js",
+      "SourceId": "FinalProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/FinalProject",
+      "RelativePath": "js/owl.carousel.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\owl.carousel.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\js\\owl.js",
+      "SourceId": "FinalProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/FinalProject",
+      "RelativePath": "js/owl.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\owl.js"
+    },
+    {
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\js\\site.js",
+      "SourceId": "FinalProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1615,10 +1955,27 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\js\\slick.js",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/FinalProject",
+      "RelativePath": "js/slick.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\slick.js"
+    },
+    {
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "FinalProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1632,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1649,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1666,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1683,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1700,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1717,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1734,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1751,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1768,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1785,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1802,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1819,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1836,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1853,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1870,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1887,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1904,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1921,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1938,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1955,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1972,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1989,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2006,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2023,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2040,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2057,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2074,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2091,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2108,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2125,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2142,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2159,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2176,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2193,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2210,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2227,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2244,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2261,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2278,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2295,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2312,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2329,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2346,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2363,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2380,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2397,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2414,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2431,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2448,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2465,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2482,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2499,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2516,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2533,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2550,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2567,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ITI\\MVC\\FinaPro\\FinalProject\\FinalProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gehad\\Desktop\\pro\\FinalProject\\FinalProject\\wwwroot\\",
       "BasePath": "_content/FinalProject",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

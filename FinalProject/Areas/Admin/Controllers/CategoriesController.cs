@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using FinalProject.Areas.Admin.Models;
+using FinalProject.Models;
 using FinalProject.Services;
 //using PurchasingSystem.Services;
 
@@ -60,7 +60,7 @@ namespace FinalProject.Areas.Admin.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ID,Name")] Category category)
+        public async Task<IActionResult> Create([Bind("ID,Name,Description,Photo")] Category category)
         {
             if (ModelState.IsValid)
             {
